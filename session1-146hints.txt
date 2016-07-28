@@ -3,14 +3,21 @@ Ask Brody for his favorite movie.,Stepbrothers
 Ask Brody for his favorite song.,Sundaycandy
 Ask Brody for his favorite book.,Plumisland
 Ask Brody for his favorite artist.,Kendricklamar
-Ask Rachel for her favorite tv show.,Thetwilightzone
-Ask Rachel for her favorite movie.,Lostintranslation
-Ask Rachel for her favorite book.,Thebookofdisquiet
-Ask Rachel for her favorite artist.,Themountaingoats
-Ask Varun for his favorite tv show.,Numb3rs
-Ask Varun for his favorite movie.,Abeautfiulmind
-Ask Varun for his favorite song.,Somebodythatiusedtoknow
-Ask Varun for his favorite book.,TuesdayswithMorrie
+Ask Kenny for his favorite tv show.,
+Ask Kenny for his favorite movie.,
+Ask Kenny for his favorite song.,
+Ask Kenny for his favorite book.,
+Ask Kenny for his favorite artist.,
+Ask Arjun for his favorite tv show.,
+Ask Arjun for his favorite movie.,
+Ask Arjun for his favorite song.,
+Ask Arjun for his favorite book.,
+Ask Arjun for his favorite artist.,
+Ask Madeline for her favorite tv show.,
+Ask Madeline for her favorite movie.,
+Ask Madeline for her favorite song.,
+Ask Madeline for her favorite book.,
+Ask Madeline for her favorite artist.,
 Who you gonna call?,Ghostbusters
 I've a feeling we're not in Kansas anymore.,Thewizardofoz
 Life is like box of this.,Chocolates
