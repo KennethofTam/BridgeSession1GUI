@@ -1,6 +1,7 @@
 import java.awt.event.ActionEvent;
 
 import javax.swing.AbstractButton;
+import javax.swing.ButtonGroup;
 
 /**
  * <h1>Bridge Session 01 - GUI Quiz Program</h1>
@@ -43,6 +44,13 @@ public class Question1GUI extends javax.swing.JFrame {
 		jButton1 = new javax.swing.JButton();
 		jButton2 = new javax.swing.JButton();
 		jLabel3 = new javax.swing.JLabel();
+		
+		ButtonGroup group = new ButtonGroup(); //Supposedly prevents selection of multiple answer choices
+		group.add(jRadioButton1);
+		group.add(jRadioButton2);
+		group.add(jRadioButton3);
+		group.add(jRadioButton4);
+		
 
 		setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
