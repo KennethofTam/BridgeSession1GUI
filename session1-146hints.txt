@@ -3,13 +3,13 @@ Ask Brody for his favorite movie.,Stepbrothers
 Ask Brody for his favorite song.,Sundaycandy
 Ask Brody for his favorite book.,Plumisland
 Ask Brody for his favorite artist.,Kendricklamar
-Ask Kenny for his favorite tv show.,
-Ask Kenny for his favorite movie.,
-Ask Kenny for his favorite song.,
-Ask Kenny for his favorite book.,
-Ask Kenny for his favorite artist.,
-ASk Kenny for his favorite hobby.,
-Ask Kenny for his Pokemon GO team.,
+Ask Kenny for his favorite tv show.,Rickandmorty
+Ask Kenny for his favorite movie.,Exmachina
+Ask Kenny for his favorite song.,Apollo
+Ask Kenny for his favorite book.,Thejoyofcooking
+Ask Kenny for his favorite artist.,Daftpunk
+ASk Kenny for his favorite hobby.,Cooking
+Ask Kenny for his Pokemon GO team.,Instinct
 Ask Arjun for his favorite tv show.,
 Ask Arjun for his favorite movie.,
 Ask Arjun for his favorite song.,
