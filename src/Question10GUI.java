@@ -1,4 +1,5 @@
 import java.awt.event.ActionEvent;
+import java.util.ArrayList;
 
 /**
  * <h1>Bridge Session 01 - GUI Quiz Program</h1>
@@ -278,15 +279,18 @@ public class Question10GUI extends javax.swing.JFrame {
 				|| jRadioButton3.isSelected() || jRadioButton4.isSelected()) {
 			String[] args = {};
 			boolean pass = true;
+			ArrayList<String> listOfIncorrectQuestions = new ArrayList<String>();
 			for (int i = 0; i < Question1GUI.pass.length; i++) {
 				if (!Question1GUI.pass[i]) {
+					listOfIncorrectQuestions.add("Question #" + (i + 1))
 					pass = false;
-					break;
+					//break;
 				}
 			}
 			if (pass)
 				EndFrame.main(args);
 			else
+			//ToDo Need to make listOfIncorrectQuestions carry over to FailFrame
 				FailFrame.main(args);
 			dispose();
 		}
