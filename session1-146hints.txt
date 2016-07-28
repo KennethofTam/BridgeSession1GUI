@@ -8,16 +8,21 @@ Ask Kenny for his favorite movie.,
 Ask Kenny for his favorite song.,
 Ask Kenny for his favorite book.,
 Ask Kenny for his favorite artist.,
+ASk Kenny for his favorite hobby.,
+Ask Kenny for his Pokemon GO team.,
 Ask Arjun for his favorite tv show.,
 Ask Arjun for his favorite movie.,
 Ask Arjun for his favorite song.,
 Ask Arjun for his favorite book.,
 Ask Arjun for his favorite artist.,
-Ask Madeline for her favorite tv show.,
-Ask Madeline for her favorite movie.,
-Ask Madeline for her favorite song.,
-Ask Madeline for her favorite book.,
-Ask Madeline for her favorite artist.,
+Ask Arjun for his favorite hobby.,
+Ask Arjun for his Pokemon GO team.,
+Ask Madeline for her favorite tv show.,Grey'sanatomy
+Ask Madeline for her favorite song.,Can'tstopthefeeling
+Ask Madeline for her favorite book.,Ringoffire
+Ask Madeline for her favorite artist.,G-eazy
+Ask Madeline for her favorite hobby.,Dance
+Ask Madeline for her Pokemon GO team.,Mystic 
 Who you gonna call?,Ghostbusters
 I've a feeling we're not in Kansas anymore.,Thewizardofoz
 Life is like box of this.,Chocolates
