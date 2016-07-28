@@ -282,7 +282,7 @@ public class Question10GUI extends javax.swing.JFrame {
 			ArrayList<String> listOfIncorrectQuestions = new ArrayList<String>();
 			for (int i = 0; i < Question1GUI.pass.length; i++) {
 				if (!Question1GUI.pass[i]) {
-					listOfIncorrectQuestions.add("Question #" + (i + 1))
+					listOfIncorrectQuestions.add("" + (i+1));
 					pass = false;
 					//break;
 				}
