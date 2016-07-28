@@ -1,13 +1,34 @@
-Ask Jiapei for his favorite tv show.,Thebigbanghheory
-Ask Jiapei for his favorite movie.,Threeidiots
-Ask Jiapei for his favorite song.,Lovestory
-Ask Jiapei for his favorite book.,Harrypotter
-Ask Jiapei for his favorite artist.,Backstreetboys
-Ask Matt for his favorite tv show.,Theoffice
-Ask Matt for his favorite movie.,500daysofsummer
-Ask Matt for his favorite song.,Deadleavesandthedirtyground
-Ask Matt for his favorite book.,Devilinthewhitecity
-Ask Matt for his favorite artist.,Kanyewest
+Ask Weijie for his favorite tv show.,
+Ask Weijie for his favorite movie.,
+Ask Weijie for his favorite song.,
+Ask Weijie for his favorite book.,
+Ask Weijie for his favorite artist.,
+ASk Weijie for his favorite hobby.,
+Ask Weijie for his Pokemon GO team.,
+Ask Sean for his favorite tv show.,Fullmetalalchemist
+Ask Sean for his favorite movie.,Spiritedaway
+Ask Sean for his favorite song.,Highscore
+Ask Sean for his favorite book.,1984
+Ask Sean for his favorite artist.,Caspardavidfriedrich
+Ask Sean for his favorite hobby.,Travelling
+Ask Sean for his Pokemon GO team.,Mystic
+Ask Will for his favorite tv show.,Quantumleap
+Ask Will for his favorite movie.,Inception
+Ask Will for his favorite song.,Don'tstopbelieving
+Ask Will for his favorite book.,Ender'sgame
+Ask Will for his favorite artist.,Journey
+ASk Will for his favorite hobby.,Chess
+Ask Will for his Pokemon GO team.,Valor
+Ask Kyle for his favorite tv show.,Walkingdead
+Ask Kyle for his favorite movie.,Americanhustle
+Ask Kyle for his favorite song.,Wonderfultonight
+Ask Kyle for his favorite book.,Ofmiceandmen
+Ask Kyle for his favorite artist.,Ericclapton
+Ask Kyle for his favorite hobby.,Fifa
+Ask Maria for her favorite tvshow.,Parksandrec
+Ask Maria for her favorite book.,Onehundredyearsofsolitude
+Ask Maria for her favorite artist.,Elliotsmith
+Ask Maria for her Pokemon GO team.,Mystic
 Who you gonna call?,Ghostbusters
 I've a feeling we're not in Kansas anymore.,Thewizardofoz
 Life is like box of this.,Chocolates
