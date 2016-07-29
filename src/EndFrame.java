@@ -29,14 +29,14 @@ public class EndFrame extends javax.swing.JFrame {
 	@SuppressWarnings("unchecked")
 	private void initComponents() {
 
-		jLabel4 = new javax.swing.JLabel();
 		jSeparator1 = new javax.swing.JSeparator();
 		jButton1 = new javax.swing.JButton();
 		jButton2 = new javax.swing.JButton();
 		jButton3 = new javax.swing.JButton();
-		jLabel3 = new javax.swing.JLabel();
 		jLabel1 = new javax.swing.JLabel();
 		jLabel2 = new javax.swing.JLabel();
+		jLabel3 = new javax.swing.JLabel();
+		jLabel4 = new javax.swing.JLabel();
 		jLabel5 = new javax.swing.JLabel();
 		jLabel6 = new javax.swing.JLabel();
 		jLabel8 = new javax.swing.JLabel();
