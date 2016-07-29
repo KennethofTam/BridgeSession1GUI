@@ -10,13 +10,10 @@ Ask Kenny for his favorite book.,Thejoyofcooking
 Ask Kenny for his favorite artist.,Daftpunk
 ASk Kenny for his favorite hobby.,Cooking
 Ask Kenny for his Pokemon GO team.,Instinct
-Ask Arjun for his favorite tv show.,
-Ask Arjun for his favorite movie.,
-Ask Arjun for his favorite song.,
-Ask Arjun for his favorite book.,
-Ask Arjun for his favorite artist.,
-Ask Arjun for his favorite hobby.,
-Ask Arjun for his Pokemon GO team.,
+Ask Arjun for his favorite movie.,Topgun
+Ask Arjun for his favorite book.,Howgoogleworks
+Ask Arjun for his favorite artist.,Drake
+Ask Arjun for his favorite hobby.,Tennis
 Ask Madeline for her favorite tv show.,Grey'sanatomy
 Ask Madeline for her favorite song.,Can'tstopthefeeling
 Ask Madeline for her favorite book.,Ringoffire
