@@ -1,4 +1,5 @@
 import java.awt.event.ActionEvent;
+import java.util.ArrayList;
 
 /**
  * <h1>Bridge Session 01 - GUI Quiz Program</h1>
@@ -51,7 +52,24 @@ public class FailFrame extends javax.swing.JFrame {
 		jLabel3.setText("CS Bridge Course 2015");
 
 		jLabel2.setFont(new java.awt.Font("Segoe UI Semibold", 0, 18));
-		jLabel2.setText("Sorry, you did not pass the quiz. Click below to take the quiz again.");
+		
+		failText = "Sorry, you did not pass the quiz.\nYou missed the following questions: "
+		ArrayList<String> wrongQuestions = new ArrayList<String>();
+		for (int i = 0; i < Question1GUI.pass.length; i++) {
+			if (!Question1GUI.pass[i]) {
+				int num = i + 1;
+				wrongQuestions.add("" + num);
+			}
+		}
+		for (int i = 0; i < wrongQuestions.size(); i++) {
+			if (i == wrongQuestions.size() - 1) {
+				failText = failText + wrongQuestions.get(i) + ".";
+			}
+			else {
+				failText = failText + wrongQuestions.get(i) + ", ";
+			}
+		}
+		jLabel2.setText(failText); //ToDo test this. 
 
 		javax.swing.GroupLayout layout = new javax.swing.GroupLayout(
 				getContentPane());
