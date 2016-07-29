@@ -51,11 +51,11 @@ public class Question1GUI extends javax.swing.JFrame {
 
 		// The question text
 		jLabel1.setFont(new java.awt.Font("Arial", 1, 24));
-		jLabel1.setText("Question 1 : Which spell would protect you from dementors?");
+		jLabel1.setText("Question 1 : What's 2+2?");
 
 		// Defines the actions to be invoked if option 1 is selected
 		jRadioButton1.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton1.setText("Alohomora");
+		jRadioButton1.setText("Math is for nerds");
 		jRadioButton1.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton1ActionPerformed(evt);
@@ -64,7 +64,7 @@ public class Question1GUI extends javax.swing.JFrame {
 
 		// Defines the actions to be invoked if option 2 is selected
 		jRadioButton2.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton2.setText("Expelliarmus");
+		jRadioButton2.setText("Floor");
 		jRadioButton2.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton2ActionPerformed(evt);
@@ -73,7 +73,7 @@ public class Question1GUI extends javax.swing.JFrame {
 
 		// Defines the actions to be invoked if option 3 is selected
 		jRadioButton3.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton3.setText("Imperio");
+		jRadioButton3.setText("Foor");
 		jRadioButton3.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton3ActionPerformed(evt);
@@ -82,7 +82,7 @@ public class Question1GUI extends javax.swing.JFrame {
 
 		// Defines the actions to be invoked if option 4 is selected
 		jRadioButton4.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton4.setText("Expecto Patronum");
+		jRadioButton4.setText("4");
 		jRadioButton4.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton4ActionPerformed(evt);
