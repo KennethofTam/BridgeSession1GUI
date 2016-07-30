@@ -37,7 +37,7 @@ public class StartupScreen extends javax.swing.JFrame {
 
 		// Following code takes care of setting the title
 		jLabel3.setFont(new java.awt.Font("Times New Roman", 0, 24));
-		jLabel3.setText("CS Bridge Course 2015");
+		jLabel3.setText("CS Bridge Course 2016");
 
 		setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -52,13 +52,13 @@ public class StartupScreen extends javax.swing.JFrame {
 
 		// Following code displays the startup message
 		jLabel1.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jLabel1.setText("<html>Welcome to the 2015 Bridge Program. During this session,<br>"
+		jLabel1.setText("<html>Welcome to the 2016 Bridge Program. During this session,<br>"
 				+ "we are going to complete a short activity with a group of 5-6<br>"
 				+ "people. You must first complete this quiz with your group to<br>"
 				+ "unlock the next part of the activity.</html>");
 
 		jLabel2.setFont(new java.awt.Font("Copperplate Gothic Bold", 1, 36));
-		jLabel2.setText("CS Bridge Course 2015");
+		jLabel2.setText("CS Bridge Course 2016");
 
 		jLabel4.setFont(new java.awt.Font("Times New Roman", 0, 24));
 		jLabel4.setText("Session 1");
