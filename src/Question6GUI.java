@@ -47,12 +47,12 @@ public class Question6GUI extends javax.swing.JFrame {
 		jLabel4.setText("Session 1");
 
 		jLabel1.setFont(new java.awt.Font("Arial", 1, 24));
-		jLabel1.setText("<html>Question 6 : Suppose you live in Panem. Which genetic<br>"
-				+ "hybrid would be able to perfectly mimic the pitch of your voice?</html>");
+		jLabel1.setText("<html>Question 6 : Which of the following planets<br>"
+				+ "has the solar system's largest volcano?</html>");
 
 		// Defines the actions to be invoked if option 1 is selected
 		jRadioButton1.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton1.setText("Jabberjays");
+		jRadioButton1.setText("Venus");
 		jRadioButton1.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton1ActionPerformed(evt);
@@ -61,7 +61,7 @@ public class Question6GUI extends javax.swing.JFrame {
 
 		// Defines the actions to be invoked if option 2 is selected
 		jRadioButton2.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton2.setText("Tracker jackers");
+		jRadioButton2.setText("Saturn");
 		jRadioButton2.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton2ActionPerformed(evt);
@@ -70,7 +70,7 @@ public class Question6GUI extends javax.swing.JFrame {
 
 		// Defines the actions to be invoked if option 3 is selected
 		jRadioButton3.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton3.setText("Mockingjays");
+		jRadioButton3.setText("Mars");
 		jRadioButton3.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton3ActionPerformed(evt);
@@ -79,7 +79,7 @@ public class Question6GUI extends javax.swing.JFrame {
 
 		// Defines the actions to be invoked if option 4 is selected
 		jRadioButton4.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton4.setText("Wolf mutts");
+		jRadioButton4.setText("Earth");
 		jRadioButton4.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton4ActionPerformed(evt);

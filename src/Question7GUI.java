@@ -52,7 +52,7 @@ public class Question7GUI extends javax.swing.JFrame {
 
 		// Defines the actions to be invoked if option 1 is selected
 		jRadioButton1.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton1.setText("Tim Korb");
+		jRadioButton1.setText("Maria Leonor Pacheco");
 		jRadioButton1.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton1ActionPerformed(evt);
@@ -61,7 +61,7 @@ public class Question7GUI extends javax.swing.JFrame {
 
 		// Defines the actions to be invoked if option 2 is selected
 		jRadioButton2.setFont(new java.awt.Font("Tahoma", 0, 24));
-		jRadioButton2.setText("Sahil Pujari");
+		jRadioButton2.setText("Kenneth Tam");
 		jRadioButton2.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				jRadioButton2ActionPerformed(evt);
