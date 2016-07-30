@@ -276,7 +276,7 @@ public class EndFrame extends javax.swing.JFrame {
 	 * @param evt
 	 */
 	private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {
-		readCluesFile("hints1.zip", hints1Pass);
+		readCluesFile("hints5.zip", hints1Pass);
 		setPasswordAndHints();
 		getHintsFile();
 		getZipFile();
@@ -286,7 +286,7 @@ public class EndFrame extends javax.swing.JFrame {
 	/**
 	 * Reads a file from a password protected zip file and writes to a different
 	 * password protected zip file, encrypted with the randomly assigned
-	 * password and named UnlockThis.zip. The file is then outpur to the current
+	 * password and named UnlockThis.zip. The file is then output to the current
 	 * working directory.
 	 */
 	private void getZipFile() {

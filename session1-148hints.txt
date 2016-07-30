@@ -1,8 +1,6 @@
 Ask Tse Qin for her favorite movie.,Mulan
 Ask Tse Qin for her favorite book.,Freakonomics
 ASk Tse Qin for her favorite hobby.,Reading
-Ask Jonathan for his favorite tv show.,Spongebobsquarepants
-Ask Jonathan for his favorite movie.,Willywonkaandthechocolatefactory
 Ask Jonathan for his favorite song.,Charliebrown
 Ask Jonathan for his favorite artist.,Coldplay
 Ask Jonathan for his favorite hobby.,Soccer
@@ -13,7 +11,6 @@ Ask Matthew for his favorite book.,1984
 Ask Matthew for his favorite artist.,Eminem
 Ask Matthew for his favorite hobby.,Programming
 Ask Matthew for his Pokemon GO team.,Instinct
-Ask Nathanael for his favorite tv show.,Buffythevampireslayer
 Ask Nathanael for his favorite movie.,Inception
 Ask Nathanael for his favorite song.,Handstomyself
 Ask Nathanael for his favorite artist.,Selenagomez
@@ -22,13 +19,9 @@ Ask Nathanael for his Pokemon GO team.,Mystic
 Who you gonna call?,Ghostbusters
 I've a feeling we're not in Kansas anymore.,Thewizardofoz
 Life is like box of this.,Chocolates
-May the odds be ever in your favor.,Thehungergames
-Four houses separate the students at this school.,Hogwarts
 This goes up when rain comes down.,Umbrella
 This word becomes shorter when you add two letters to it.,Short
 Life liberty and the pursuit of...,Happiness
 You either die a hero or live long enough to see yourself become the,Villain
 This movie has the quote "I'm gonna make him an offer he can't refuse",Godfather
 You can take our lives but you can never take our,Freedom
-This TV series has the quote "I maybe on the side of the angels but don't for a second think that I am one of them",Sherlock
-He/she always pays his/her debts,Lannister
