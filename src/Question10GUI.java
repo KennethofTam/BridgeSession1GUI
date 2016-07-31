@@ -42,7 +42,7 @@ public class Question10GUI extends javax.swing.JFrame {
 		jButton1 = new javax.swing.JButton();
 		jButton2 = new javax.swing.JButton();
 		jLabel3 = new javax.swing.JLabel();
-
+		
 		// Putting all the buttons in one group prevents multiple answers
 		// from being selected at once
 		ButtonGroup answerButtonGroup = new ButtonGroup();
@@ -306,6 +306,7 @@ public class Question10GUI extends javax.swing.JFrame {
 
 	public static void main(String args[]) {
 		/* Create and display the form */
+
 		java.awt.EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				new Question10GUI().setVisible(true);

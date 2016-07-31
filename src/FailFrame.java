@@ -27,12 +27,12 @@ public class FailFrame extends javax.swing.JFrame {
 	 */
 	@SuppressWarnings("unchecked")
 	private void initComponents() {
-
+		jLabel1 = new javax.swing.JLabel();
+		jLabel2 = new javax.swing.JLabel();
+		jLabel3 = new javax.swing.JLabel();
 		jLabel4 = new javax.swing.JLabel();
 		jSeparator1 = new javax.swing.JSeparator();
 		jButton2 = new javax.swing.JButton();
-		jLabel3 = new javax.swing.JLabel();
-		jLabel2 = new javax.swing.JLabel();
 
 		setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -48,15 +48,25 @@ public class FailFrame extends javax.swing.JFrame {
 		});
 
 		jLabel3.setFont(new java.awt.Font("Copperplate Gothic Bold", 1, 36));
-<<<<<<< HEAD
 		jLabel3.setText("CS Bridge Course 2016 ");
-=======
-		jLabel3.setText("CS Bridge Course 2016");
->>>>>>> 2f64ba1966312e3e49f2c4f8ec614eadad1cdc2d
+		
+		//Alerts users what questions they got wrong
+		jLabel1.setFont(new java.awt.Font("Segoe UI Semibold", 0, 18));
+		jLabel1.setText("<html>Might want to recheck the following question(s): <br>");
+		for(int i = 0; i < Question1GUI.pass.length; i++) {
+			if(!Question1GUI.pass[i]) {
+				int questionNumber = i+1;
+				jLabel1.setText(jLabel1.getText() + "Question " + questionNumber + "<br>");
+			}
+		}
+		jLabel1.setText(jLabel1.getText() + "</html>");
 
+		
 		jLabel2.setFont(new java.awt.Font("Segoe UI Semibold", 0, 18));
 		jLabel2.setText("Sorry, you did not pass the quiz. Click below to take the quiz again.");
 
+		
+		
 		javax.swing.GroupLayout layout = new javax.swing.GroupLayout(
 				getContentPane());
 		getContentPane().setLayout(layout);
@@ -83,6 +93,13 @@ public class FailFrame extends javax.swing.JFrame {
 																		341)
 																.addComponent(
 																		jLabel4))
+												.addGroup(
+														layout.createSequentialGroup()
+																.addGap(52,
+																		52,
+																		52)
+																.addComponent(
+																		jLabel1))
 												.addGroup(
 														layout.createSequentialGroup()
 																.addGap(52, 52,
@@ -118,6 +135,8 @@ public class FailFrame extends javax.swing.JFrame {
 										2,
 										javax.swing.GroupLayout.PREFERRED_SIZE)
 								.addGap(92, 92, 92)
+								.addComponent(jLabel1)
+								.addGap(118, 118, 118)
 								.addComponent(jLabel2)
 								.addGap(118, 118, 118)
 								.addComponent(jButton2,
@@ -155,9 +174,10 @@ public class FailFrame extends javax.swing.JFrame {
 	}
 
 	/* Components required by the class are declared below */
-	private javax.swing.JButton jButton2;
+	private javax.swing.JLabel jLabel1;
 	private javax.swing.JLabel jLabel2;
 	private javax.swing.JLabel jLabel3;
 	private javax.swing.JLabel jLabel4;
+	private javax.swing.JButton jButton2;
 	private javax.swing.JSeparator jSeparator1;
 }

@@ -6,7 +6,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 import com.alutam.ziputils.ZipEncryptOutputStream;
 
-public class FileEncryptor {
+public class FileEncryptor extends javax.swing.JFrame {
 	public static void main(String[] args) throws IOException {
 		
 		String hints1Pass = "bnwh!d2$4lw";
