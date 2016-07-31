@@ -1,5 +1,7 @@
 import java.awt.event.ActionEvent;
 
+import javax.swing.ButtonGroup;
+
 /**
  * <h1>Bridge Session 01 - GUI Quiz Program</h1>
  *
@@ -41,6 +43,14 @@ public class Question5GUI extends javax.swing.JFrame {
 		jButton2 = new javax.swing.JButton();
 		jLabel3 = new javax.swing.JLabel();
 
+		// Putting all the buttons in one group prevents multiple answers
+		// from being selected at once
+		ButtonGroup answerButtonGroup = new ButtonGroup();
+		answerButtonGroup.add(jRadioButton1);
+		answerButtonGroup.add(jRadioButton2);
+		answerButtonGroup.add(jRadioButton3);
+		answerButtonGroup.add(jRadioButton4);
+		
 		setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
 		jLabel4.setFont(new java.awt.Font("Times New Roman", 0, 24));
