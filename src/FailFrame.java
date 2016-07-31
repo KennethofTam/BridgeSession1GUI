@@ -48,7 +48,11 @@ public class FailFrame extends javax.swing.JFrame {
 		});
 
 		jLabel3.setFont(new java.awt.Font("Copperplate Gothic Bold", 1, 36));
+<<<<<<< HEAD
 		jLabel3.setText("CS Bridge Course 2016 ");
+=======
+		jLabel3.setText("CS Bridge Course 2016");
+>>>>>>> 2f64ba1966312e3e49f2c4f8ec614eadad1cdc2d
 
 		jLabel2.setFont(new java.awt.Font("Segoe UI Semibold", 0, 18));
 		jLabel2.setText("Sorry, you did not pass the quiz. Click below to take the quiz again.");
