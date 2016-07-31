@@ -74,7 +74,7 @@ public class EndFrame extends javax.swing.JFrame {
 		});
 
 		jLabel3.setFont(new java.awt.Font("Copperplate Gothic Bold", 1, 36));
-		jLabel3.setText("CS Bridge Course 2015");
+		jLabel3.setText("CS Bridge Course 2016");
 
 		jLabel1.setFont(new java.awt.Font("Segoe UI Semibold", 0, 18));
 		jLabel1.setText("Congratulations! You passed the quiz!");

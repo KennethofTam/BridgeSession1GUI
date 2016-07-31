@@ -105,7 +105,7 @@ public class Question2GUI extends javax.swing.JFrame {
 		jButton2.setText("<< Previous");
 
 		jLabel3.setFont(new java.awt.Font("Copperplate Gothic Bold", 1, 36));
-		jLabel3.setText("CS Bridge Course 2015");
+		jLabel3.setText("CS Bridge Course 2016");
 
 		// Following code takes care of the alignment of the GUI so that
 		// components are placed at the appropriate positions
