@@ -221,7 +221,7 @@ public class EndFrame extends javax.swing.JFrame {
 
 	/**
 	 * Creates and displays the form.
-	 * 
+	 *
 	 * @param args
 	 */
 	public static void main(String args[]) {
@@ -238,7 +238,7 @@ public class EndFrame extends javax.swing.JFrame {
 	 * {@link #setPasswordAndHints()} to randomly generate the hints and
 	 * password, {@link #getHintsFile()} to generate hints.pdf, and
 	 * {@link #getZipFile()} to generate UnlockThis.zip.
-	 * 
+	 *
 	 * @param evt
 	 */
 	private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
@@ -255,7 +255,7 @@ public class EndFrame extends javax.swing.JFrame {
 	 * {@link #setPasswordAndHints()} to randomly generate the hints and
 	 * password, {@link #getHintsFile()} to generate hints.pdf, and
 	 * {@link #getZipFile()} to generate UnlockThis.zip.
-	 * 
+	 *
 	 * @param evt
 	 */
 	private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
@@ -272,11 +272,11 @@ public class EndFrame extends javax.swing.JFrame {
 	 * {@link #setPasswordAndHints()} to randomly generate the hints and
 	 * password, {@link #getHintsFile()} to generate hints.pdf, and
 	 * {@link #getZipFile()} to generate UnlockThis.zip.
-	 * 
+	 *
 	 * @param evt
 	 */
 	private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {
-		readCluesFile("hints5.zip", hints1Pass);
+		readCluesFile("hints1.zip", hints1Pass);
 		setPasswordAndHints();
 		getHintsFile();
 		getZipFile();
@@ -340,7 +340,7 @@ public class EndFrame extends javax.swing.JFrame {
 	/**
 	 * Reads a list of clues from a password protected clue file and adds each
 	 * line to an ArrayList.
-	 * 
+	 *
 	 * @param filename
 	 *            The name of the file to read from
 	 * @param filePassword
