@@ -20,7 +20,7 @@ Run the following commands with your command line once you've navigated
 to the directory that has 'session01-activity.zip' in it.
 
 ```
-unzip session01-activity.zip
+unzip session-01-activity.zip
 java -jar Start.jar
 ```
 
